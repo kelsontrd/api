@@ -1,6 +1,6 @@
 const Filter = ({onChange, value, search}) => {
     return (
-        <div className="space-y-3">
+        <div className="space-y-3 bg-">
             <div className="flex flex-col gap-2">
                 <label htmlFor="search" className="text-sm font-semibold text-gray-700">
                     🔍 Buscar Contato:
